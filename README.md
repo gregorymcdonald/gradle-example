@@ -1,2 +1,4 @@
-Gradle Example
-Author: Greg McDonald
+### Gradle Example
+| Author         | Email                 |
+| -------------- | --------------------- |
+| Greg McDonald  | greg.ry.mcd@gmail.com |
