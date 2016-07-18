@@ -1,0 +1,15 @@
+apply plugin: 'java'
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'HelloWorld'
+    }
+}
+
+task hello {
+    doLast {
+        // run with 'gradle -q hello' 
+        // the '-q' flag suppresses logging output
+        println 'Hello world!'
+    }
+}
